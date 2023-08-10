@@ -3,6 +3,7 @@
 Local S3 is a S3 library for dealing s3 without using AWS on real life.
 
 ## Installation
+install wget on your machine, as a reference for installation for every machine. Look at here: https://www.positioniseverything.net/wget-command-not-found/
 
 ```bash
 npm start
